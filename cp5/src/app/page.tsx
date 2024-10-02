@@ -16,7 +16,7 @@ export default function Home() {
 </p>
 <Image
           src="/example-image.jpg"
-          alt="Astronomy Pictur"
+          alt="Astronomy Picture"
           width={500}
           height={500}
           className="mt-6"
